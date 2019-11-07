@@ -136,10 +136,10 @@ var oneSideWindows = [];
 // var coverage = 100;
 
 // medium coverage
-// var coverage = 80;
+var coverage = 80;
 
 // low coverage
-var coverage = 50;
+// var coverage = 50;
 
 // very low coverage
 // var coverage = 10;
